@@ -1,3 +1,5 @@
+A simple react tic-tac-toe game made with the help of the react hooks tutorial
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
